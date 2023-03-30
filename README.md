@@ -1,0 +1,1 @@
+Meu projeto é uma agenda de contatos, onde eu fiz uma conexão com o banco de dados MySQL Workbench. Fiz uma CRUD para que eu pudesse inserir um novo contato, selecionar todos contatos, atualizar contato e excluir.
